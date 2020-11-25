@@ -1,0 +1,11 @@
+C:\Users\Carlos\source\repos\ModalDialogApp\ModalDialog\bin\Debug\ModalDialog.exe.config
+C:\Users\Carlos\source\repos\ModalDialogApp\ModalDialog\bin\Debug\ModalDialog.exe
+C:\Users\Carlos\source\repos\ModalDialogApp\ModalDialog\bin\Debug\ModalDialog.pdb
+C:\Users\Carlos\source\repos\ModalDialogApp\ModalDialog\obj\Debug\ModalDialog.csprojAssemblyReference.cache
+C:\Users\Carlos\source\repos\ModalDialogApp\ModalDialog\obj\Debug\ModalDialog.DetailsForm.resources
+C:\Users\Carlos\source\repos\ModalDialogApp\ModalDialog\obj\Debug\ModalDialog.MainForm.resources
+C:\Users\Carlos\source\repos\ModalDialogApp\ModalDialog\obj\Debug\ModalDialog.Properties.Resources.resources
+C:\Users\Carlos\source\repos\ModalDialogApp\ModalDialog\obj\Debug\ModalDialog.csproj.GenerateResource.cache
+C:\Users\Carlos\source\repos\ModalDialogApp\ModalDialog\obj\Debug\ModalDialog.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\source\repos\ModalDialogApp\ModalDialog\obj\Debug\ModalDialog.exe
+C:\Users\Carlos\source\repos\ModalDialogApp\ModalDialog\obj\Debug\ModalDialog.pdb
